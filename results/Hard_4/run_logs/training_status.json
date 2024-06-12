@@ -1,0 +1,30 @@
+{
+    "Player": {
+        "elo": 1038.846822196633,
+        "checkpoints": [
+            {
+                "steps": 399829,
+                "file_path": "results\\Hard_4\\Player\\Player-399829.onnx",
+                "reward": null,
+                "creation_time": 1717430367.7709224,
+                "auxillary_file_paths": [
+                    "results\\Hard_4\\Player\\Player-399829.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 399829,
+            "file_path": "results\\Hard_4\\Player.onnx",
+            "reward": null,
+            "creation_time": 1717430367.7709224,
+            "auxillary_file_paths": [
+                "results\\Hard_4\\Player\\Player-399829.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.2+cpu"
+    }
+}

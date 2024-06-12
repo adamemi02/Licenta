@@ -1,0 +1,66 @@
+{
+    "Player": {
+        "checkpoints": [
+            {
+                "steps": 2812670,
+                "file_path": "results\\Final_Train_3_0\\Player\\Player-2812670.onnx",
+                "reward": null,
+                "creation_time": 1717061392.3607912,
+                "auxillary_file_paths": [
+                    "results\\Final_Train_3_0\\Player\\Player-2812670.pt"
+                ]
+            },
+            {
+                "steps": 2999962,
+                "file_path": "results\\Final_Train_3_0\\Player\\Player-2999962.onnx",
+                "reward": null,
+                "creation_time": 1717062300.883524,
+                "auxillary_file_paths": [
+                    "results\\Final_Train_3_0\\Player\\Player-2999962.pt"
+                ]
+            },
+            {
+                "steps": 3054114,
+                "file_path": "results\\Final_Train_3_0\\Player\\Player-3054114.onnx",
+                "reward": null,
+                "creation_time": 1717062432.1569266,
+                "auxillary_file_paths": [
+                    "results\\Final_Train_3_0\\Player\\Player-3054114.pt"
+                ]
+            },
+            {
+                "steps": 3084834,
+                "file_path": "results\\Final_Train_3_0\\Player\\Player-3084834.onnx",
+                "reward": null,
+                "creation_time": 1717063696.0259597,
+                "auxillary_file_paths": [
+                    "results\\Final_Train_3_0\\Player\\Player-3084834.pt"
+                ]
+            },
+            {
+                "steps": 3112012,
+                "file_path": "results\\Final_Train_3_0\\Player\\Player-3112012.onnx",
+                "reward": null,
+                "creation_time": 1717333082.816363,
+                "auxillary_file_paths": [
+                    "results\\Final_Train_3_0\\Player\\Player-3112012.pt"
+                ]
+            }
+        ],
+        "elo": 1366.4687087965756,
+        "final_checkpoint": {
+            "steps": 3112012,
+            "file_path": "results\\Final_Train_3_0\\Player.onnx",
+            "reward": null,
+            "creation_time": 1717333082.816363,
+            "auxillary_file_paths": [
+                "results\\Final_Train_3_0\\Player\\Player-3112012.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.2+cpu"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Player": {
+        "elo": 1156.39865025928,
+        "checkpoints": [
+            {
+                "steps": 115675,
+                "file_path": "results\\Easy\\Player\\Player-115675.onnx",
+                "reward": null,
+                "creation_time": 1717337522.531213,
+                "auxillary_file_paths": [
+                    "results\\Easy\\Player\\Player-115675.pt"
+                ]
+            },
+            {
+                "steps": 323336,
+                "file_path": "results\\Easy\\Player\\Player-323336.onnx",
+                "reward": 2.0569499991834164,
+                "creation_time": 1717338549.5904007,
+                "auxillary_file_paths": [
+                    "results\\Easy\\Player\\Player-323336.pt"
+                ]
+            },
+            {
+                "steps": 434680,
+                "file_path": "results\\Easy\\Player\\Player-434680.onnx",
+                "reward": 1.8189799621701241,
+                "creation_time": 1717339037.8002975,
+                "auxillary_file_paths": [
+                    "results\\Easy\\Player\\Player-434680.pt"
+                ]
+            },
+            {
+                "steps": 499981,
+                "file_path": "results\\Easy\\Player\\Player-499981.onnx",
+                "reward": 1.8581000417470932,
+                "creation_time": 1717339334.4487016,
+                "auxillary_file_paths": [
+                    "results\\Easy\\Player\\Player-499981.pt"
+                ]
+            },
+            {
+                "steps": 506550,
+                "file_path": "results\\Easy\\Player\\Player-506550.onnx",
+                "reward": 1.8303142982934202,
+                "creation_time": 1717339361.8673203,
+                "auxillary_file_paths": [
+                    "results\\Easy\\Player\\Player-506550.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 506550,
+            "file_path": "results\\Easy\\Player.onnx",
+            "reward": 1.8303142982934202,
+            "creation_time": 1717339361.8673203,
+            "auxillary_file_paths": [
+                "results\\Easy\\Player\\Player-506550.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.2+cpu"
+    }
+}

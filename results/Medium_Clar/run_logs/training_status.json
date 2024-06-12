@@ -1,0 +1,66 @@
+{
+    "Player": {
+        "checkpoints": [
+            {
+                "steps": 499880,
+                "file_path": "results\\Medium_Clar\\Player\\Player-499880.onnx",
+                "reward": null,
+                "creation_time": 1717449724.6571074,
+                "auxillary_file_paths": [
+                    "results\\Medium_Clar\\Player\\Player-499880.pt"
+                ]
+            },
+            {
+                "steps": 842646,
+                "file_path": "results\\Medium_Clar\\Player\\Player-842646.onnx",
+                "reward": null,
+                "creation_time": 1717450468.8595064,
+                "auxillary_file_paths": [
+                    "results\\Medium_Clar\\Player\\Player-842646.pt"
+                ]
+            },
+            {
+                "steps": 855654,
+                "file_path": "results\\Medium_Clar\\Player\\Player-855654.onnx",
+                "reward": null,
+                "creation_time": 1717450731.4281163,
+                "auxillary_file_paths": [
+                    "results\\Medium_Clar\\Player\\Player-855654.pt"
+                ]
+            },
+            {
+                "steps": 939877,
+                "file_path": "results\\Medium_clar\\Player\\Player-939877.onnx",
+                "reward": null,
+                "creation_time": 1717834888.2895505,
+                "auxillary_file_paths": [
+                    "results\\Medium_clar\\Player\\Player-939877.pt"
+                ]
+            },
+            {
+                "steps": 986294,
+                "file_path": "results\\Medium_clar\\Player\\Player-986294.onnx",
+                "reward": 69.5416510105133,
+                "creation_time": 1717835195.9224877,
+                "auxillary_file_paths": [
+                    "results\\Medium_clar\\Player\\Player-986294.pt"
+                ]
+            }
+        ],
+        "elo": 994.4769793530044,
+        "final_checkpoint": {
+            "steps": 986294,
+            "file_path": "results\\Medium_clar\\Player.onnx",
+            "reward": 69.5416510105133,
+            "creation_time": 1717835195.9224877,
+            "auxillary_file_paths": [
+                "results\\Medium_clar\\Player\\Player-986294.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.2+cpu"
+    }
+}

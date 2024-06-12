@@ -1,0 +1,57 @@
+{
+    "Player": {
+        "elo": 1425.6988437400425,
+        "checkpoints": [
+            {
+                "steps": 363049,
+                "file_path": "results\\Hard\\Player\\Player-363049.onnx",
+                "reward": null,
+                "creation_time": 1717351667.3216953,
+                "auxillary_file_paths": [
+                    "results\\Hard\\Player\\Player-363049.pt"
+                ]
+            },
+            {
+                "steps": 499895,
+                "file_path": "results\\Hard\\Player\\Player-499895.onnx",
+                "reward": 9.3281991481781,
+                "creation_time": 1717351983.0995414,
+                "auxillary_file_paths": [
+                    "results\\Hard\\Player\\Player-499895.pt"
+                ]
+            },
+            {
+                "steps": 612820,
+                "file_path": "results\\Hard\\Player\\Player-612820.onnx",
+                "reward": null,
+                "creation_time": 1717352222.8315113,
+                "auxillary_file_paths": [
+                    "results\\Hard\\Player\\Player-612820.pt"
+                ]
+            },
+            {
+                "steps": 953085,
+                "file_path": "results\\Hard\\Player\\Player-953085.onnx",
+                "reward": null,
+                "creation_time": 1717353230.0144658,
+                "auxillary_file_paths": [
+                    "results\\Hard\\Player\\Player-953085.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 953085,
+            "file_path": "results\\Hard\\Player.onnx",
+            "reward": null,
+            "creation_time": 1717353230.0144658,
+            "auxillary_file_paths": [
+                "results\\Hard\\Player\\Player-953085.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.2+cpu"
+    }
+}

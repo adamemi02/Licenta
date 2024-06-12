@@ -1,0 +1,66 @@
+{
+    "Player": {
+        "checkpoints": [
+            {
+                "steps": 3999890,
+                "file_path": "results\\7\\Player\\Player-3999890.onnx",
+                "reward": null,
+                "creation_time": 1716673915.459151,
+                "auxillary_file_paths": [
+                    "results\\7\\Player\\Player-3999890.pt"
+                ]
+            },
+            {
+                "steps": 4499987,
+                "file_path": "results\\7\\Player\\Player-4499987.onnx",
+                "reward": null,
+                "creation_time": 1716674997.013209,
+                "auxillary_file_paths": [
+                    "results\\7\\Player\\Player-4499987.pt"
+                ]
+            },
+            {
+                "steps": 4999976,
+                "file_path": "results\\7\\Player\\Player-4999976.onnx",
+                "reward": null,
+                "creation_time": 1716676124.2961676,
+                "auxillary_file_paths": [
+                    "results\\7\\Player\\Player-4999976.pt"
+                ]
+            },
+            {
+                "steps": 5499936,
+                "file_path": "results\\7\\Player\\Player-5499936.onnx",
+                "reward": null,
+                "creation_time": 1716677273.0119154,
+                "auxillary_file_paths": [
+                    "results\\7\\Player\\Player-5499936.pt"
+                ]
+            },
+            {
+                "steps": 5837084,
+                "file_path": "results\\7\\Player\\Player-5837084.onnx",
+                "reward": null,
+                "creation_time": 1716678056.1088777,
+                "auxillary_file_paths": [
+                    "results\\7\\Player\\Player-5837084.pt"
+                ]
+            }
+        ],
+        "elo": 1331.2252683246413,
+        "final_checkpoint": {
+            "steps": 5837084,
+            "file_path": "results\\7\\Player.onnx",
+            "reward": null,
+            "creation_time": 1716678056.1088777,
+            "auxillary_file_paths": [
+                "results\\7\\Player\\Player-5837084.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.2+cpu"
+    }
+}

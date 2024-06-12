@@ -1,0 +1,66 @@
+{
+    "Player": {
+        "elo": 1173.506166083484,
+        "checkpoints": [
+            {
+                "steps": 212377,
+                "file_path": "results\\Medium\\Player\\Player-212377.onnx",
+                "reward": null,
+                "creation_time": 1717341759.9699872,
+                "auxillary_file_paths": [
+                    "results\\Medium\\Player\\Player-212377.pt"
+                ]
+            },
+            {
+                "steps": 435524,
+                "file_path": "results\\Medium\\Player\\Player-435524.onnx",
+                "reward": null,
+                "creation_time": 1717342311.6759226,
+                "auxillary_file_paths": [
+                    "results\\Medium\\Player\\Player-435524.pt"
+                ]
+            },
+            {
+                "steps": 499991,
+                "file_path": "results\\Medium\\Player\\Player-499991.onnx",
+                "reward": 1.978259986639023,
+                "creation_time": 1717342487.9963489,
+                "auxillary_file_paths": [
+                    "results\\Medium\\Player\\Player-499991.pt"
+                ]
+            },
+            {
+                "steps": 568840,
+                "file_path": "results\\Medium\\Player\\Player-568840.onnx",
+                "reward": 2.137799985706806,
+                "creation_time": 1717342646.4398634,
+                "auxillary_file_paths": [
+                    "results\\Medium\\Player\\Player-568840.pt"
+                ]
+            },
+            {
+                "steps": 579000,
+                "file_path": "results\\Medium\\Player\\Player-579000.onnx",
+                "reward": 2.4082833429177604,
+                "creation_time": 1717342703.8032913,
+                "auxillary_file_paths": [
+                    "results\\Medium\\Player\\Player-579000.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 579000,
+            "file_path": "results\\Medium\\Player.onnx",
+            "reward": 2.4082833429177604,
+            "creation_time": 1717342703.8032913,
+            "auxillary_file_paths": [
+                "results\\Medium\\Player\\Player-579000.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.2+cpu"
+    }
+}

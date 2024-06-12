@@ -1,0 +1,57 @@
+{
+    "Player": {
+        "elo": 1368.4919795226422,
+        "checkpoints": [
+            {
+                "steps": 268029,
+                "file_path": "results\\Easy_2\\Player\\Player-268029.onnx",
+                "reward": 11.337466299533844,
+                "creation_time": 1717355870.0474262,
+                "auxillary_file_paths": [
+                    "results\\Easy_2\\Player\\Player-268029.pt"
+                ]
+            },
+            {
+                "steps": 499837,
+                "file_path": "results\\Easy_2\\Player\\Player-499837.onnx",
+                "reward": null,
+                "creation_time": 1717356470.3340905,
+                "auxillary_file_paths": [
+                    "results\\Easy_2\\Player\\Player-499837.pt"
+                ]
+            },
+            {
+                "steps": 499965,
+                "file_path": "results\\Easy_2\\Player\\Player-499965.onnx",
+                "reward": null,
+                "creation_time": 1717356487.5630977,
+                "auxillary_file_paths": [
+                    "results\\Easy_2\\Player\\Player-499965.pt"
+                ]
+            },
+            {
+                "steps": 514523,
+                "file_path": "results\\Easy_2\\Player\\Player-514523.onnx",
+                "reward": 4.5594854679490835,
+                "creation_time": 1717356517.573006,
+                "auxillary_file_paths": [
+                    "results\\Easy_2\\Player\\Player-514523.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 514523,
+            "file_path": "results\\Easy_2\\Player.onnx",
+            "reward": 4.5594854679490835,
+            "creation_time": 1717356517.573006,
+            "auxillary_file_paths": [
+                "results\\Easy_2\\Player\\Player-514523.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.2+cpu"
+    }
+}

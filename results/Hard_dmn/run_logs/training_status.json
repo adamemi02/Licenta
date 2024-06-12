@@ -1,0 +1,66 @@
+{
+    "Player": {
+        "checkpoints": [
+            {
+                "steps": 1999939,
+                "file_path": "results\\Hard_dmn\\Player\\Player-1999939.onnx",
+                "reward": 8.036950245499611,
+                "creation_time": 1718133492.4058418,
+                "auxillary_file_paths": [
+                    "results\\Hard_dmn\\Player\\Player-1999939.pt"
+                ]
+            },
+            {
+                "steps": 2332143,
+                "file_path": "results\\Hard_dmn\\Player\\Player-2332143.onnx",
+                "reward": null,
+                "creation_time": 1718134373.2441547,
+                "auxillary_file_paths": [
+                    "results\\Hard_dmn\\Player\\Player-2332143.pt"
+                ]
+            },
+            {
+                "steps": 2856495,
+                "file_path": "results\\Hard_dmn\\Player\\Player-2856495.onnx",
+                "reward": null,
+                "creation_time": 1718135880.7727382,
+                "auxillary_file_paths": [
+                    "results\\Hard_dmn\\Player\\Player-2856495.pt"
+                ]
+            },
+            {
+                "steps": 3999958,
+                "file_path": "results\\Hard_dmn\\Player\\Player-3999958.onnx",
+                "reward": 29.06080150604248,
+                "creation_time": 1718138605.276524,
+                "auxillary_file_paths": [
+                    "results\\Hard_dmn\\Player\\Player-3999958.pt"
+                ]
+            },
+            {
+                "steps": 4665575,
+                "file_path": "results\\Hard_dmn\\Player\\Player-4665575.onnx",
+                "reward": null,
+                "creation_time": 1718140003.861103,
+                "auxillary_file_paths": [
+                    "results\\Hard_dmn\\Player\\Player-4665575.pt"
+                ]
+            }
+        ],
+        "elo": 1306.5468798617524,
+        "final_checkpoint": {
+            "steps": 4665575,
+            "file_path": "results\\Hard_dmn\\Player.onnx",
+            "reward": null,
+            "creation_time": 1718140003.861103,
+            "auxillary_file_paths": [
+                "results\\Hard_dmn\\Player\\Player-4665575.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.2+cpu"
+    }
+}
